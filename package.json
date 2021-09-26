@@ -2,8 +2,9 @@
   "name": "pizza-huntz",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "._server.js",
   "scripts": {
+    "start": "node _.server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
