@@ -1,0 +1,19 @@
+{
+  "name": "pizza-huntz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaeonA/pizza-huntz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaeonA/pizza-huntz/issues"
+  },
+  "homepage": "https://github.com/ShaeonA/pizza-huntz#readme"
+}
